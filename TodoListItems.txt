@@ -1,5 +1,0 @@
-Buy grocery	Buy grocery for the week	05/31/2017
-Get a job	Apply for programming job	06/15/2017
-Pay Rent	Pay $560 for rent next month	07/01/2017
-Test	This is a test	05/29/2017
-Expired Task	This task expired yesterday	05/28/2017
